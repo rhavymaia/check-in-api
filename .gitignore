@@ -1,0 +1,7 @@
+__pycache__/
+.env/
+.idea/
+*.zargo~
+.venv/
+ez_config.sh
+checkin-api.log
